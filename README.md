@@ -1,2 +1,2 @@
 # yelp_scrapy
-crawl data from yelp.com using scrapy
+Built crawler to get data from yelp.com using scrapy
